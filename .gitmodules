@@ -7,3 +7,6 @@
 [submodule "pack/vim-exchange/start/vim-exchange"]
 	path = pack/vim-exchange/start/vim-exchange
 	url = https://github.com/tommcdo/vim-exchange.git
+[submodule "pack/command-t/start/command-t"]
+	path = pack/command-t/start/command-t
+	url = https://github.com/wincent/command-t.git
