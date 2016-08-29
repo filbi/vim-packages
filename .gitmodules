@@ -10,3 +10,6 @@
 [submodule "pack/command-t/start/command-t"]
 	path = pack/command-t/start/command-t
 	url = https://github.com/wincent/command-t.git
+[submodule "pack/YouCompleteMe/start/YouCompleteMe"]
+	path = pack/YouCompleteMe/start/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
