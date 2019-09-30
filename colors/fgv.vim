@@ -24,6 +24,7 @@ hi WarningMsg	ctermfg=203										guifg=#ff5f5f
 hi ErrorMsg		ctermfg=196		ctermbg=236		cterm=bold		guifg=#ff0000	guibg=#303030	gui=bold
 
 hi CursorLine					ctermbg=236		cterm=none						guibg=#303030
+hi CursorLineNr					ctermfg=Yellow	cterm=none
 hi MatchParen	ctermfg=228		ctermbg=101		cterm=bold		guifg=#ffff87	guibg=#87875f	gui=bold
 hi Pmenu		ctermfg=230		ctermbg=238						guifg=#ffffd7	guibg=#444444
 hi PmenuSel		ctermfg=232		ctermbg=192						guifg=#080808	guibg=#d7ff87
