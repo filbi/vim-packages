@@ -12,7 +12,7 @@
 	url = https://github.com/wincent/command-t.git
 [submodule "pack/YouCompleteMe/start/YouCompleteMe"]
 	path = pack/YouCompleteMe/start/YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe.git
+	url = https://github.com/ycm-core/YouCompleteMe.git
 [submodule "pack/vim-vue/start/vim-vue"]
 	path = pack/vim-vue/start/vim-vue
 	url = https://github.com/posva/vim-vue.git

@@ -14,7 +14,7 @@ make -j8
 cd $HOME/.vim/pack/YouCompleteMe/start/YouCompleteMe
 
 mkdir ycm_build && cd ycm_build
-cmake -G "Unix Makefiles" -DUSE_SYSTEM_LIBCLANG=ON -DUSE_PYTHON2=OFF . ../third_party/ycmd/cpp/
+cmake -G "Unix Makefiles" -DUSE_SYSTEM_LIBCLANG=ON . ../third_party/ycmd/cpp/
 cmake --build . --target ycm_core
 cd .. && rm -r ycm_build
 
